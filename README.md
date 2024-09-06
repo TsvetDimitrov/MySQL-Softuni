@@ -1,6 +1,6 @@
 # MySQL-Softuni
 This repo includes all solutions for the MySQL tasks course in Softuni.
-Please use judge to submit your solutions. Keep in mind that the solutions can differentiate by some given values but the core logic should be the same. Also judge does not accepts the schema name before each of the queries for e.g: 
+Please use judge to submit your solutions. Keep in mind that the solutions can differentiate by some given values but the core logic should be the same. Also judge does not accepts the schema/database name before each of the queries for e.g: 
 Use 
 
 ALTER TABLE `towns` 
