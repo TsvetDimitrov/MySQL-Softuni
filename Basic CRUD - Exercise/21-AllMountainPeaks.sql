@@ -1,2 +1,2 @@
-SELECT peak_name FROM geography.peaks
+SELECT peak_name FROM peaks
 ORDER BY peak_name ASC;
