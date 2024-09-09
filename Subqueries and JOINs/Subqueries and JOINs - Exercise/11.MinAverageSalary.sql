@@ -1,0 +1,1 @@
+-- 11. Min Average Salary --
