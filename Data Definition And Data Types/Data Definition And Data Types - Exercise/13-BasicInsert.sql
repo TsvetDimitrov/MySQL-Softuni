@@ -22,10 +22,6 @@ CREATE TABLE `employees`(
 `salary` FLOAT NOT NULL,
 `address_id` INT NOT NULL);
 
-
-==== Solution to submit below ==== 
-
-
 ALTER TABLE `addresses`
     ADD CONSTRAINT fk_addresses_towns
         FOREIGN KEY (town_id) REFERENCES towns (id);
@@ -36,7 +32,9 @@ ALTER TABLE `employees`
     ADD CONSTRAINT fk_employees_address
         FOREIGN KEY (address_id) REFERENCES addresses (id);
 
-INSERT INTO towns (name) VALUES
+--- Solution to submit below ---
+
+INSERT INTO `towns` (name) VALUES
 ('Sofia'),
 ('Plovdiv'),
 ('Varna'),
