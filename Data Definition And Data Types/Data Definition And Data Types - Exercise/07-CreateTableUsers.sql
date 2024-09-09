@@ -1,3 +1,5 @@
+-- 07. Create Table Users --
+
 CREATE TABLE `users` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `username` VARCHAR(30) NOT NULL,

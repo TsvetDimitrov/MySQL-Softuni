@@ -1,3 +1,5 @@
+-- 16. 3rd Highest Salary --
+
 SELECT department_id AS department_idd , (
     SELECT DISTINCT salary FROM employees
     WHERE department_id = department_idd

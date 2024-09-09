@@ -1,3 +1,5 @@
+-- 15. Show All Games with Duration --
+
 SELECT name AS game, 
 	CASE 
 		WHEN HOUR(start) >= 0 AND HOUR(start) < 12 THEN 'Morning'

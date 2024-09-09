@@ -1,3 +1,5 @@
+-- 13. Basic Insert --
+
 CREATE TABLE `towns`(
 `id` INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
 `name` VARCHAR(50) NOT NULL);

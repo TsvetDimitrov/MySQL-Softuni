@@ -1,3 +1,5 @@
+-- 01. Records’ Count --
+
 SELECT COUNT(id) AS 'id' FROM wizzard_deposits;
 
 -- OR -- 

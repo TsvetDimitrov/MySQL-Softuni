@@ -1,3 +1,5 @@
+-- 16. Basic Select Some Fields --
+
 SELECT name FROM `towns`
 ORDER BY name ASC;
 SELECT name FROM `departments`

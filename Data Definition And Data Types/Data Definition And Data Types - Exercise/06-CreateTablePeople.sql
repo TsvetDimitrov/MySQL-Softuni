@@ -1,3 +1,5 @@
+-- 06. Create Table People --
+
 CREATE TABLE `people` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `name` VARCHAR(200) NOT NULL,

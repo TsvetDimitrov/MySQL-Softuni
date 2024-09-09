@@ -1,3 +1,5 @@
+-- 16. Orders Table --
+
 SELECT
 	product_name,
 	order_date,

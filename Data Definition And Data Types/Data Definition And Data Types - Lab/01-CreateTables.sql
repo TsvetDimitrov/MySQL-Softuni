@@ -1,3 +1,5 @@
+-- 01. Create Tables --
+
 CREATE TABLE `employees` (
   `id` INT NOT NULL AUTO_INCREMENT,
   `first_name` VARCHAR(45) NOT NULL,

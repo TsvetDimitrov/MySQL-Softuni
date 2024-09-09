@@ -1,3 +1,5 @@
+-- 09. Age Groups --
+
 SELECT
 	CASE 
 		WHEN age BETWEEN 0 AND 10 THEN '[0-10]'

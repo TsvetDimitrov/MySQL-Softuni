@@ -1,2 +1,4 @@
+-- 13. User Email Providers --
+
 SELECT user_name, SUBSTRING(email, LOCATE('@', email) + 1) AS 'email_provider' FROM users
 ORDER BY email_provider ASC, user_name ASC;
