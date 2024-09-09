@@ -1,3 +1,5 @@
+-- 03. Insert Records in Both Tables --
+
 INSERT INTO `towns` (`id`, `name`) VALUES ('1', 'Sofia');
 INSERT INTO `towns` (`id`, `name`) VALUES ('2', 'Plovdiv');
 INSERT INTO `towns` (`id`, `name`) VALUES ('3', 'Varna');

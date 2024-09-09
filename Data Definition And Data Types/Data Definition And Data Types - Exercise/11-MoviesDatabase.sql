@@ -1,3 +1,5 @@
+-- 11. Movies Database --
+
 CREATE TABLE `directors`(
 `id` INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
 `director_name` VARCHAR(50) NOT NULL,

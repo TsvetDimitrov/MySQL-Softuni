@@ -1,3 +1,5 @@
+-- 4. Appetizers Count --
+
 SELECT COUNT(category_id) AS 'category_id' FROM products
 WHERE price > 8
 GROUP BY category_id

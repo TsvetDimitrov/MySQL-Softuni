@@ -1,3 +1,5 @@
+-- 13. Employees Average Salaries --
+
 SET SQL_SAFE_UPDATES = 0;
 -- Use the query above to turn off the safe update mode --
 

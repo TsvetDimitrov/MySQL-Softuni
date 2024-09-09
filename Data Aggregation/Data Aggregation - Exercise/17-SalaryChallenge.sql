@@ -1,3 +1,5 @@
+-- 17. Salary Challenge --
+
 SELECT first_name, last_name, department_id FROM employees e1
 WHERE salary >
 (

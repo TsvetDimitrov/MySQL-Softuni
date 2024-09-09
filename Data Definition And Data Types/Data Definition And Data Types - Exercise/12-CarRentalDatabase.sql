@@ -1,3 +1,5 @@
+-- 12. Car Rental Database --
+
 CREATE TABLE `categories`(
 `id` INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
 `category` VARCHAR(50) NOT NULL,
