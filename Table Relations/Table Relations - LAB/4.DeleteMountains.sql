@@ -32,5 +32,5 @@ CREATE TABLE `peaks` (
 ALTER TABLE `peaks` 
 ADD CONSTRAINT 
 FOREIGN KEY(`mountain_id`)
-REFERENCES TABLE `mountains`(`id`)
+REFERENCES `mountains`(`id`)
 ON DELETE CASCADE;
