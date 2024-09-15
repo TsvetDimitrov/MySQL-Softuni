@@ -1,5 +1,6 @@
 -- 1. Count Employees by Town --
 -- Please submit the solution solution without the Delimeter and the symbols --
+
 DELIMITER ==
 CREATE FUNCTION ufn_count_employees_by_town(`town_name` VARCHAR(50))
 RETURNS INT
