@@ -1,0 +1,1 @@
+-- 08. Extract all planets and their journey count --
